@@ -1,1 +1,6 @@
 Practice notes for the email validation script.
+
+Validation rule: an address is treated as valid if it has a non-empty
+local part, a single "@", and a domain part containing at least one dot,
+with no whitespace anywhere. This is a simple structural check, not full
+RFC 5322 validation.
