@@ -1,0 +1,5 @@
+alice@example.com
+bob.smith@company.co
+not-an-email
+carol@sub.domain.org
+dave@@example.com
